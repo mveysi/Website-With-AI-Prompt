@@ -1,0 +1,19 @@
+Chat-gpt_3.5
+
+Ben gezegenler ile alakalı bir website istiyorum. Wenbsite de gezegen resimleri olsun ve bu resimlere tıklayınca bana bir bilgilendirme yazısı versin.
+Website html,css ve javascript ile yazılsın. Sitemin arkaplanında bir uzay resmi olsun. 
+Her satırda 4 resim yan yana olsun toplamda 8 resim 2 satır olsun. 
+Sitenin en üst kısmında Galaxy yazsın sayfanın en altında da iletişim bilgisi olsun.
+Her fotoğrafın bilgi yazısını nasıl yapacağım.
+Bilgi yazılarını biraz daha uzat.
+
+OpenArt
+
+I want to uranus,neptun,saturn,jupyter,mercury,venus and world planet from back to the space
+Aya gönderilen astronotların aydaki fotoğraflarını oluştur
+Mars kolonisi ile ilgili foto yapabilirmisin
+
+
+
+
+
